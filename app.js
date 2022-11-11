@@ -1,5 +1,3 @@
-//Your code here
-
 class Account {
   constructor(accname, accno, balance) {
     this.name = accname;
@@ -8,7 +6,7 @@ class Account {
     this.transactions = [];
   }
 
-  //your code here
+  //Your code here
 }
 
 module.exports = { Account };
